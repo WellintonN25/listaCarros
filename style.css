@@ -29,6 +29,8 @@ body{
     display: flex;
     gap: 26px;
     justify-content: center;
+    flex-wrap: wrap;
+    
 }
 
 .card{

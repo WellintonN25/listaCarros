@@ -22,6 +22,30 @@ const itens = [
         desc:'carro sedan, 4 portas freios abs',
         image:'https://www.automaistv.com.br/wp-content/uploads/2018/03/Volkswagen-Voyage.jpeg',
     },
+
+            {
+        id:4,
+        nome:'siena',
+        marca:'fiat',
+        desc:'carro sedan, 4 portas freios abs',
+        image:'https://carro.blog.br/wp-content/uploads/2024/09/Fiat-Grand-Siena-Attractive-2020-5-jpg.webp',
+    },
+
+            {
+        id:5,
+        nome:'fastback',
+        marca:'fiat',
+        desc:'carro sedan, 4 portas freios abs',
+        image:'https://dsae.s3.amazonaws.com/00434116001291/Fotos/0KFI38_14.jpg?u=20250708104158&auto=format&ixlib=react-9.8.1&h=80',
+    },
+
+            {
+        id:6,
+        nome:'focus',
+        marca:'ford',
+        desc:'carro sedan, 4 portas freios abs',
+        image:'https://quatrorodas.abril.com.br/wp-content/uploads/2016/11/57f2ae850e21630270058299novo-focus-modelo-2008-da-ford-testado-pela-revista-quatro-rodas.jpeg?quality=70&strip=info&resize=680,453',
+    },
 ];
 
 const lista = document.querySelector('.lista');
