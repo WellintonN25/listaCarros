@@ -30,7 +30,6 @@ body{
     gap: 26px;
     justify-content: center;
     flex-wrap: wrap;
-    
 }
 
 .card{
@@ -122,9 +121,9 @@ header h1 {
     }
 
     .card {
-        width: 250px;
+        width: 100%;
         position: relative;
-        left: -35px;
+        left: -12px;
     }
 
     .card img {
